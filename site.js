@@ -19,6 +19,7 @@ function init() {
   setAccentFromTime();
   setInterval(setAccentFromTime, 1400);
   initLinks();
+  document.body.classList.add('is-ready');
 }
 
 if (document.readyState === 'loading') {
