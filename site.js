@@ -1,5 +1,5 @@
 const INSTAGRAM_URL = 'https://www.instagram.com/kamaleonica';
-const CONTACT_EMAIL = 'hello@kamaleonica.art';
+const CONTACT_EMAIL = 'Kamaleonica@mail.com';
 const ACCENTS = ['#FF00AA', '#E91E63', '#D4AF37', '#13B9C8', '#4E217B'];
 
 function setAccentFromTime() {
