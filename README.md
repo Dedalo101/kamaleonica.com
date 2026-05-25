@@ -7,7 +7,7 @@ The goal of this channel is to share quality music and support the artists who k
 
 If you’d like to collaborate or record a session with me, feel free to contact me via Instagram
 
-ESPAÑOL
+ES
 Soy Nahuel, un apasionado de la música electrónica y coleccionista de vinilos.
 En este canal encontrarás sesiones de DJ realizadas por mí y por otros artistas de la escena underground.
 El enfoque principal son las sesiones en vinilo, aunque también estoy abierto a grabar a artistas que mezclen en formato digital.
